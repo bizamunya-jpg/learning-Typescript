@@ -1,6 +1,6 @@
 # ENUMS
-Is a special class that represents a group of constants
-enums come in two flavours string and numeric
+- Is a special class that represents a group of constants
+- enums come in two flavours string and numeric
 
 # Numeric Enums - dEFAULT
 By default, enums will initialixe the first value to 0 and add 1 to each addtional value
